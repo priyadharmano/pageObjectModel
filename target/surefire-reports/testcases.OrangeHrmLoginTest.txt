@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: testcases.OrangeHrmLoginTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 22.847 s - in testcases.OrangeHrmLoginTest
